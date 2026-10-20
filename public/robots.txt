@@ -1,0 +1,5 @@
+# robots.txt for Mitesh Yadav Portfolio
+User-agent: *
+Allow: /
+
+Sitemap: https://mitesh-s-portfolio-ebon.vercel.app/sitemap.xml

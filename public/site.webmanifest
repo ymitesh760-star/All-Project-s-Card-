@@ -1,0 +1,17 @@
+{
+  "name": "Mitesh Yadav — Selected Works",
+  "short_name": "MY. Portfolio",
+  "description": "Selected works, experiments, and digital applications built by Mitesh Yadav — Computer Science student & frontend developer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#18181B",
+  "theme_color": "#18181B",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
